@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/gps_clock/src/commit/76423fa9d66d2dc38289abe61a4e79999f7a648c
+https://git.bitcicle.com/andy/gps_clock/src/commit/020085f9626e581cd8a05944a7f1bf299cd13d5e
 
 To browse or clone the full repository, visit:
 
